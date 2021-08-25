@@ -8,7 +8,7 @@ body {
     left: 0;
     background-color: #ff0066;
     text-align: center;
-    z-index: 9;
+    z-index: 999;
 }
 .cntnr1 {
     margin-top: 65px;
